@@ -1,1 +1,1 @@
-# Exemples de Code R pour des analyses agronomique 
+# Exemples de Code R pour analyses agronomiques 
